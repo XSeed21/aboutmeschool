@@ -1,0 +1,41 @@
+.section {
+	height: 90%;
+	float: left;
+	background-color:#C26740; 
+	margin-bottom: 2em;
+}
+	
+.textbox {
+	float:left;	
+	background-color:#E7BD3C;
+	height:90%;
+	width: 98%;
+	margin-top:2em;
+	margin-bottom:2em;
+	margin-left:1em;
+	margin-right:1em;
+	font-family: Arial, Verdana, Sans Serif;
+}
+
+body {
+	background-image: linear-gradient(#22DECD, white, #22DE3B);
+	background-repeat:no-repeat;
+}
+
+h1 {
+	font-family:Playfair Display, Times New Roman, Serif;
+	text-align: center;
+	background-color:#E05C42; 
+	letter-spacing:1px
+}
+
+h2 {
+	background-color: white;
+}
+p {
+	text-align: justify;
+}
+
+hr {
+	color: white;
+}
